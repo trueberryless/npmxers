@@ -11,10 +11,10 @@
       "all": 118
     },
     "helpful_issues": 42,
-    "comments": 255,
+    "comments": 257,
     "helpful_comments": 4,
-    "reactions": 253,
-    "score": 942
+    "reactions": 258,
+    "score": 943
   },
   {
     "username": "alexdln",
@@ -64,7 +64,7 @@
     "helpful_issues": 20,
     "comments": 201,
     "helpful_comments": 3,
-    "reactions": 171,
+    "reactions": 173,
     "score": 579
   },
   {
@@ -113,10 +113,10 @@
       "all": 39
     },
     "helpful_issues": 32,
-    "comments": 266,
+    "comments": 267,
     "helpful_comments": 2,
     "reactions": 122,
-    "score": 472
+    "score": 473
   },
   {
     "username": "MatteoGabriele",
@@ -393,7 +393,7 @@
   {
     "username": "cylewaitforit",
     "githubId": "54253392",
-    "issues": 8,
+    "issues": 9,
     "merged_pull_requests": {
       "docs": 20,
       "chore": 5,
@@ -405,7 +405,7 @@
     "comments": 19,
     "helpful_comments": 0,
     "reactions": 15,
-    "score": 145
+    "score": 146
   },
   {
     "username": "mikouaji",
@@ -476,6 +476,23 @@
     "score": 121
   },
   {
+    "username": "mootari",
+    "githubId": "322014",
+    "issues": 26,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 2,
+      "feat": 0,
+      "fix": 1,
+      "all": 3
+    },
+    "helpful_issues": 10,
+    "comments": 79,
+    "helpful_comments": 1,
+    "reactions": 57,
+    "score": 114
+  },
+  {
     "username": "Flo0806",
     "githubId": "10813063",
     "issues": 3,
@@ -490,23 +507,6 @@
     "comments": 33,
     "helpful_comments": 0,
     "reactions": 27,
-    "score": 113
-  },
-  {
-    "username": "mootari",
-    "githubId": "322014",
-    "issues": 25,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 2,
-      "feat": 0,
-      "fix": 1,
-      "all": 3
-    },
-    "helpful_issues": 10,
-    "comments": 78,
-    "helpful_comments": 1,
-    "reactions": 57,
     "score": 113
   },
   {
@@ -3396,7 +3396,7 @@
     "helpful_issues": 0,
     "comments": 2,
     "helpful_comments": 1,
-    "reactions": 5,
+    "reactions": 6,
     "score": 10
   },
   {
