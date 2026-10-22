@@ -7,14 +7,14 @@
       "docs": 0,
       "chore": 26,
       "feat": 33,
-      "fix": 59,
-      "all": 118
+      "fix": 60,
+      "all": 119
     },
     "helpful_issues": 42,
     "comments": 257,
     "helpful_comments": 4,
-    "reactions": 258,
-    "score": 943
+    "reactions": 259,
+    "score": 948
   },
   {
     "username": "alexdln",
@@ -113,10 +113,10 @@
       "all": 39
     },
     "helpful_issues": 32,
-    "comments": 267,
+    "comments": 269,
     "helpful_comments": 2,
-    "reactions": 122,
-    "score": 473
+    "reactions": 123,
+    "score": 474
   },
   {
     "username": "MatteoGabriele",
@@ -478,7 +478,7 @@
   {
     "username": "mootari",
     "githubId": "322014",
-    "issues": 26,
+    "issues": 27,
     "merged_pull_requests": {
       "docs": 0,
       "chore": 2,
@@ -486,11 +486,11 @@
       "fix": 1,
       "all": 3
     },
-    "helpful_issues": 10,
+    "helpful_issues": 11,
     "comments": 79,
     "helpful_comments": 1,
-    "reactions": 57,
-    "score": 114
+    "reactions": 58,
+    "score": 118
   },
   {
     "username": "Flo0806",
@@ -8956,6 +8956,23 @@
     "comments": 1,
     "helpful_comments": 0,
     "reactions": 1,
+    "score": 1
+  },
+  {
+    "username": "Parth-Jadhav-2004",
+    "githubId": "85642001",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 2,
+    "helpful_comments": 0,
+    "reactions": 0,
     "score": 1
   },
   {
