@@ -62,10 +62,10 @@
       "all": 81
     },
     "helpful_issues": 20,
-    "comments": 201,
+    "comments": 203,
     "helpful_comments": 3,
     "reactions": 173,
-    "score": 579
+    "score": 580
   },
   {
     "username": "9romise",
@@ -112,11 +112,11 @@
       "fix": 19,
       "all": 39
     },
-    "helpful_issues": 32,
-    "comments": 269,
+    "helpful_issues": 33,
+    "comments": 273,
     "helpful_comments": 2,
-    "reactions": 123,
-    "score": 474
+    "reactions": 124,
+    "score": 479
   },
   {
     "username": "MatteoGabriele",
@@ -357,6 +357,23 @@
     "score": 161
   },
   {
+    "username": "cylewaitforit",
+    "githubId": "54253392",
+    "issues": 10,
+    "merged_pull_requests": {
+      "docs": 20,
+      "chore": 8,
+      "feat": 0,
+      "fix": 2,
+      "all": 30
+    },
+    "helpful_issues": 8,
+    "comments": 20,
+    "helpful_comments": 0,
+    "reactions": 16,
+    "score": 160
+  },
+  {
     "username": "knowler",
     "githubId": "6908001",
     "issues": 17,
@@ -389,23 +406,6 @@
     "helpful_comments": 1,
     "reactions": 40,
     "score": 149
-  },
-  {
-    "username": "cylewaitforit",
-    "githubId": "54253392",
-    "issues": 9,
-    "merged_pull_requests": {
-      "docs": 20,
-      "chore": 5,
-      "feat": 0,
-      "fix": 2,
-      "all": 27
-    },
-    "helpful_issues": 7,
-    "comments": 19,
-    "helpful_comments": 0,
-    "reactions": 15,
-    "score": 146
   },
   {
     "username": "mikouaji",
@@ -442,6 +442,23 @@
     "score": 130
   },
   {
+    "username": "BittuBarnwal7479",
+    "githubId": "254699006",
+    "issues": 12,
+    "merged_pull_requests": {
+      "docs": 2,
+      "chore": 0,
+      "feat": 4,
+      "fix": 3,
+      "all": 9
+    },
+    "helpful_issues": 10,
+    "comments": 65,
+    "helpful_comments": 0,
+    "reactions": 28,
+    "score": 128
+  },
+  {
     "username": "OrbisK",
     "githubId": "37191683",
     "issues": 6,
@@ -457,23 +474,6 @@
     "helpful_comments": 1,
     "reactions": 21,
     "score": 128
-  },
-  {
-    "username": "BittuBarnwal7479",
-    "githubId": "254699006",
-    "issues": 12,
-    "merged_pull_requests": {
-      "docs": 2,
-      "chore": 0,
-      "feat": 3,
-      "fix": 3,
-      "all": 8
-    },
-    "helpful_issues": 10,
-    "comments": 65,
-    "helpful_comments": 0,
-    "reactions": 28,
-    "score": 121
   },
   {
     "username": "mootari",
