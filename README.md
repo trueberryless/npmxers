@@ -49,4 +49,4 @@ This project is a fork and adapted version of [Nuxters](https://github.com/nuxt/
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/npmxers/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/npmxers/blob/main/LICENSE) for more information.
