@@ -22,16 +22,16 @@
     "issues": 42,
     "merged_pull_requests": {
       "docs": 0,
-      "chore": 18,
+      "chore": 19,
       "feat": 36,
-      "fix": 49,
-      "all": 103
+      "fix": 50,
+      "all": 105
     },
     "helpful_issues": 33,
-    "comments": 237,
+    "comments": 238,
     "helpful_comments": 8,
-    "reactions": 222,
-    "score": 849
+    "reactions": 223,
+    "score": 857
   },
   {
     "username": "danielroe",
@@ -113,9 +113,9 @@
       "all": 39
     },
     "helpful_issues": 33,
-    "comments": 274,
+    "comments": 275,
     "helpful_comments": 2,
-    "reactions": 125,
+    "reactions": 126,
     "score": 480
   },
   {
@@ -9539,6 +9539,23 @@
   {
     "username": "Creatixpy",
     "githubId": "173825442",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 0
+  },
+  {
+    "username": "drawliin",
+    "githubId": "118066713",
     "issues": 0,
     "merged_pull_requests": {
       "docs": 0,
