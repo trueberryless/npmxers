@@ -5,12 +5,12 @@
   "bugs": {
     "url": "https://github.com/trueberryless/npmxers/issues"
   },
+  "license": "MIT",
+  "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
   "repository": {
     "type": "git",
     "url": "https://github.com/trueberryless/npmxers.git"
   },
-  "license": "MIT",
-  "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
@@ -70,8 +70,8 @@
     "vitest": "^5.0.3",
     "vue-tsc": "^3.3.11"
   },
-  "packageManager": "pnpm@11.28.0",
   "engines": {
     "node": ">=24"
-  }
+  },
+  "packageManager": "pnpm@11.28.0"
 }
