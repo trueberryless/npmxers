@@ -23,7 +23,7 @@ const socialLinks = [
     <UContainer class="flex h-20 items-center justify-between gap-x-4 sm:h-16">
       <span class="text-sm text-neutral-300">
         Made with love by the npmx community 💜 (<NuxtLink
-          to="https://github.com/trueberryless-org/npmxers"
+          to="https://github.com/trueberryless/npmxers"
           target="_blank"
           class="underline hover:text-white"
           >source code</NuxtLink
