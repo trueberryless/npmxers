@@ -108,15 +108,15 @@
     "merged_pull_requests": {
       "docs": 1,
       "chore": 14,
-      "feat": 8,
+      "feat": 9,
       "fix": 19,
-      "all": 42
+      "all": 43
     },
-    "helpful_issues": 33,
-    "comments": 294,
+    "helpful_issues": 34,
+    "comments": 296,
     "helpful_comments": 2,
-    "reactions": 132,
-    "score": 503
+    "reactions": 133,
+    "score": 514
   },
   {
     "username": "MatteoGabriele",
@@ -141,16 +141,16 @@
     "issues": 12,
     "merged_pull_requests": {
       "docs": 3,
-      "chore": 7,
+      "chore": 8,
       "feat": 19,
       "fix": 12,
-      "all": 41
+      "all": 42
     },
     "helpful_issues": 10,
     "comments": 142,
     "helpful_comments": 3,
     "reactions": 165,
-    "score": 362
+    "score": 365
   },
   {
     "username": "wojtekmaj",
@@ -486,11 +486,11 @@
       "fix": 1,
       "all": 3
     },
-    "helpful_issues": 11,
-    "comments": 85,
+    "helpful_issues": 12,
+    "comments": 86,
     "helpful_comments": 1,
     "reactions": 59,
-    "score": 122
+    "score": 126
   },
   {
     "username": "Flo0806",
@@ -4315,6 +4315,23 @@
     "comments": 0,
     "helpful_comments": 0,
     "reactions": 1,
+    "score": 7
+  },
+  {
+    "username": "drawliin",
+    "githubId": "118066713",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 1,
+      "fix": 0,
+      "all": 1
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
     "score": 7
   },
   {
@@ -9520,6 +9537,23 @@
     "score": 0
   },
   {
+    "username": "aurorascharff",
+    "githubId": "66901228",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 0
+  },
+  {
     "username": "Chirag6722",
     "githubId": "118997601",
     "issues": 0,
@@ -9556,23 +9590,6 @@
   {
     "username": "Copilot",
     "githubId": "198982749",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 0,
-      "all": 0
-    },
-    "helpful_issues": 0,
-    "comments": 0,
-    "helpful_comments": 0,
-    "reactions": 0,
-    "score": 0
-  },
-  {
-    "username": "drawliin",
-    "githubId": "118066713",
     "issues": 0,
     "merged_pull_requests": {
       "docs": 0,
