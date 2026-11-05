@@ -13,4 +13,4 @@ minimumReleaseAgeExclude:
   - knip@6.39.0
   - vitest@5.0.3
 overrides:
-  config-chain>ini: 4.1.1
+  config-chain>ini: 4.1.3
