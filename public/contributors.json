@@ -56,16 +56,16 @@
     "issues": 25,
     "merged_pull_requests": {
       "docs": 3,
-      "chore": 34,
+      "chore": 35,
       "feat": 19,
       "fix": 26,
-      "all": 82
+      "all": 83
     },
     "helpful_issues": 20,
     "comments": 204,
     "helpful_comments": 3,
     "reactions": 191,
-    "score": 589
+    "score": 592
   },
   {
     "username": "9romise",
@@ -489,7 +489,7 @@
     "helpful_issues": 12,
     "comments": 88,
     "helpful_comments": 1,
-    "reactions": 60,
+    "reactions": 61,
     "score": 127
   },
   {
@@ -2312,6 +2312,23 @@
     "score": 15
   },
   {
+    "username": "BANOnotIT",
+    "githubId": "11363215",
+    "issues": 4,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 3,
+    "comments": 4,
+    "helpful_comments": 0,
+    "reactions": 2,
+    "score": 15
+  },
+  {
     "username": "houtanrocky",
     "githubId": "62800782",
     "issues": 3,
@@ -2429,23 +2446,6 @@
     "helpful_comments": 0,
     "reactions": 23,
     "score": 15
-  },
-  {
-    "username": "BANOnotIT",
-    "githubId": "11363215",
-    "issues": 3,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 0,
-      "all": 0
-    },
-    "helpful_issues": 3,
-    "comments": 4,
-    "helpful_comments": 0,
-    "reactions": 2,
-    "score": 14
   },
   {
     "username": "golden-fox07",
@@ -2669,6 +2669,23 @@
     "score": 13
   },
   {
+    "username": "AriPerkkio",
+    "githubId": "14806298",
+    "issues": 3,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 1,
+      "feat": 0,
+      "fix": 0,
+      "all": 1
+    },
+    "helpful_issues": 2,
+    "comments": 2,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 13
+  },
+  {
     "username": "IHIutch",
     "githubId": "20825047",
     "issues": 0,
@@ -2837,23 +2854,6 @@
     "helpful_comments": 0,
     "reactions": 2,
     "score": 13
-  },
-  {
-    "username": "AriPerkkio",
-    "githubId": "14806298",
-    "issues": 2,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 1,
-      "feat": 0,
-      "fix": 0,
-      "all": 1
-    },
-    "helpful_issues": 2,
-    "comments": 2,
-    "helpful_comments": 0,
-    "reactions": 0,
-    "score": 12
   },
   {
     "username": "colinscz",
@@ -8240,6 +8240,23 @@
     },
     "helpful_issues": 0,
     "comments": 1,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 1
+  },
+  {
+    "username": "DefinitelyMaybe",
+    "githubId": "5512440",
+    "issues": 1,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
     "helpful_comments": 0,
     "reactions": 0,
     "score": 1
