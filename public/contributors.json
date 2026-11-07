@@ -64,7 +64,7 @@
     "helpful_issues": 20,
     "comments": 204,
     "helpful_comments": 3,
-    "reactions": 191,
+    "reactions": 192,
     "score": 592
   },
   {
@@ -143,14 +143,14 @@
       "docs": 3,
       "chore": 8,
       "feat": 19,
-      "fix": 15,
-      "all": 45
+      "fix": 16,
+      "all": 46
     },
     "helpful_issues": 11,
     "comments": 167,
     "helpful_comments": 3,
     "reactions": 172,
-    "score": 400
+    "score": 405
   },
   {
     "username": "wojtekmaj",
@@ -344,17 +344,17 @@
     "githubId": "54253392",
     "issues": 13,
     "merged_pull_requests": {
-      "docs": 20,
+      "docs": 21,
       "chore": 9,
       "feat": 0,
       "fix": 2,
-      "all": 31
+      "all": 32
     },
-    "helpful_issues": 10,
+    "helpful_issues": 11,
     "comments": 22,
     "helpful_comments": 0,
     "reactions": 16,
-    "score": 173
+    "score": 180
   },
   {
     "username": "Adebesin-Cell",
@@ -523,7 +523,7 @@
     "helpful_issues": 6,
     "comments": 33,
     "helpful_comments": 0,
-    "reactions": 41,
+    "reactions": 42,
     "score": 109
   },
   {
@@ -850,6 +850,23 @@
     "score": 59
   },
   {
+    "username": "VentyCZ",
+    "githubId": "3247664",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 1,
+      "fix": 9,
+      "all": 10
+    },
+    "helpful_issues": 0,
+    "comments": 6,
+    "helpful_comments": 0,
+    "reactions": 4,
+    "score": 55
+  },
+  {
     "username": "DDeenis",
     "githubId": "40246260",
     "issues": 1,
@@ -898,23 +915,6 @@
     "comments": 6,
     "helpful_comments": 0,
     "reactions": 5,
-    "score": 50
-  },
-  {
-    "username": "VentyCZ",
-    "githubId": "3247664",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 1,
-      "fix": 8,
-      "all": 9
-    },
-    "helpful_issues": 0,
-    "comments": 6,
-    "helpful_comments": 0,
-    "reactions": 4,
     "score": 50
   },
   {
@@ -9486,6 +9486,23 @@
     "score": 1
   },
   {
+    "username": "TotoCodeFR",
+    "githubId": "118753153",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 2,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 1
+  },
+  {
     "username": "Us3r-gitHub",
     "githubId": "58467104",
     "issues": 0,
@@ -10032,6 +10049,23 @@
   {
     "username": "thegreatalxx",
     "githubId": "198081098",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 0
+  },
+  {
+    "username": "tommy-mitchell",
+    "githubId": "1403701",
     "issues": 0,
     "merged_pull_requests": {
       "docs": 0,
