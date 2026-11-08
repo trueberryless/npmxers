@@ -64,7 +64,7 @@
     "helpful_issues": 20,
     "comments": 204,
     "helpful_comments": 3,
-    "reactions": 192,
+    "reactions": 193,
     "score": 592
   },
   {
@@ -98,7 +98,7 @@
     "helpful_issues": 35,
     "comments": 313,
     "helpful_comments": 2,
-    "reactions": 140,
+    "reactions": 141,
     "score": 546
   },
   {
@@ -342,7 +342,7 @@
   {
     "username": "cylewaitforit",
     "githubId": "54253392",
-    "issues": 13,
+    "issues": 14,
     "merged_pull_requests": {
       "docs": 21,
       "chore": 9,
@@ -354,7 +354,7 @@
     "comments": 22,
     "helpful_comments": 0,
     "reactions": 16,
-    "score": 180
+    "score": 181
   },
   {
     "username": "Adebesin-Cell",
