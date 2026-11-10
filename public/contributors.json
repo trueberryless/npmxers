@@ -4318,6 +4318,23 @@
     "score": 7
   },
   {
+    "username": "dantman",
+    "githubId": "53399",
+    "issues": 3,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 1,
+    "comments": 1,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 7
+  },
+  {
     "username": "ddtamn",
     "githubId": "102568893",
     "issues": 0,
@@ -4961,23 +4978,6 @@
     "comments": 1,
     "helpful_comments": 0,
     "reactions": 3,
-    "score": 6
-  },
-  {
-    "username": "dantman",
-    "githubId": "53399",
-    "issues": 2,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 0,
-      "all": 0
-    },
-    "helpful_issues": 1,
-    "comments": 1,
-    "helpful_comments": 0,
-    "reactions": 0,
     "score": 6
   },
   {
