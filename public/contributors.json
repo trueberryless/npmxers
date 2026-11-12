@@ -266,10 +266,10 @@
       "all": 53
     },
     "helpful_issues": 1,
-    "comments": 75,
+    "comments": 76,
     "helpful_comments": 0,
     "reactions": 17,
-    "score": 258
+    "score": 259
   },
   {
     "username": "whitep4nth3r",
@@ -7834,6 +7834,23 @@
     "comments": 1,
     "helpful_comments": 0,
     "reactions": 1,
+    "score": 2
+  },
+  {
+    "username": "taham8875",
+    "githubId": "92264237",
+    "issues": 2,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
     "score": 2
   },
   {
