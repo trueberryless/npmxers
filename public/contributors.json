@@ -6,15 +6,32 @@
     "merged_pull_requests": {
       "docs": 0,
       "chore": 26,
-      "feat": 34,
+      "feat": 35,
       "fix": 60,
-      "all": 120
+      "all": 121
     },
     "helpful_issues": 42,
     "comments": 258,
     "helpful_comments": 4,
     "reactions": 260,
-    "score": 956
+    "score": 963
+  },
+  {
+    "username": "danielroe",
+    "githubId": "28706372",
+    "issues": 33,
+    "merged_pull_requests": {
+      "docs": 2,
+      "chore": 31,
+      "feat": 38,
+      "fix": 38,
+      "all": 109
+    },
+    "helpful_issues": 23,
+    "comments": 405,
+    "helpful_comments": 7,
+    "reactions": 420,
+    "score": 918
   },
   {
     "username": "alexdln",
@@ -32,23 +49,6 @@
     "helpful_comments": 8,
     "reactions": 223,
     "score": 864
-  },
-  {
-    "username": "danielroe",
-    "githubId": "28706372",
-    "issues": 33,
-    "merged_pull_requests": {
-      "docs": 2,
-      "chore": 31,
-      "feat": 30,
-      "fix": 38,
-      "all": 101
-    },
-    "helpful_issues": 23,
-    "comments": 405,
-    "helpful_comments": 7,
-    "reactions": 420,
-    "score": 862
   },
   {
     "username": "serhalp",
@@ -4743,6 +4743,23 @@
     "score": 7
   },
   {
+    "username": "nadaniels",
+    "githubId": "25019365",
+    "issues": 1,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 1,
+      "all": 1
+    },
+    "helpful_issues": 0,
+    "comments": 1,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 7
+  },
+  {
     "username": "Nadjaroemer",
     "githubId": "25689287",
     "issues": 0,
@@ -5299,23 +5316,6 @@
     },
     "helpful_issues": 1,
     "comments": 3,
-    "helpful_comments": 0,
-    "reactions": 0,
-    "score": 6
-  },
-  {
-    "username": "nadaniels",
-    "githubId": "25019365",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 1,
-      "all": 1
-    },
-    "helpful_issues": 0,
-    "comments": 1,
     "helpful_comments": 0,
     "reactions": 0,
     "score": 6
@@ -9998,6 +9998,23 @@
   {
     "username": "mzl2233",
     "githubId": "109468061",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 0
+  },
+  {
+    "username": "officialasishkumar",
+    "githubId": "87874775",
     "issues": 0,
     "merged_pull_requests": {
       "docs": 0,
