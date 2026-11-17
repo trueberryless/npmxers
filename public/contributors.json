@@ -198,7 +198,7 @@
       "all": 11
     },
     "helpful_issues": 8,
-    "comments": 394,
+    "comments": 393,
     "helpful_comments": 5,
     "reactions": 160,
     "score": 310
@@ -2222,23 +2222,6 @@
     },
     "helpful_issues": 0,
     "comments": 13,
-    "helpful_comments": 0,
-    "reactions": 4,
-    "score": 18
-  },
-  {
-    "username": "mrnasil",
-    "githubId": "854673",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 1,
-      "fix": 2,
-      "all": 3
-    },
-    "helpful_issues": 0,
-    "comments": 1,
     "helpful_comments": 0,
     "reactions": 4,
     "score": 18
@@ -10066,6 +10049,23 @@
   {
     "username": "Semak12345",
     "githubId": "88731119",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 0
+  },
+  {
+    "username": "Seyamalam",
+    "githubId": "126227356",
     "issues": 0,
     "merged_pull_requests": {
       "docs": 0,
