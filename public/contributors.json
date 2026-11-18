@@ -198,7 +198,7 @@
       "all": 11
     },
     "helpful_issues": 8,
-    "comments": 393,
+    "comments": 394,
     "helpful_comments": 5,
     "reactions": 160,
     "score": 310
@@ -2222,6 +2222,23 @@
     },
     "helpful_issues": 0,
     "comments": 13,
+    "helpful_comments": 0,
+    "reactions": 4,
+    "score": 18
+  },
+  {
+    "username": "mrnasil",
+    "githubId": "854673",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 1,
+      "fix": 2,
+      "all": 3
+    },
+    "helpful_issues": 0,
+    "comments": 1,
     "helpful_comments": 0,
     "reactions": 4,
     "score": 18
@@ -4777,6 +4794,23 @@
     "score": 7
   },
   {
+    "username": "posva",
+    "githubId": "664177",
+    "issues": 1,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 1,
+      "all": 1
+    },
+    "helpful_issues": 0,
+    "comments": 1,
+    "helpful_comments": 0,
+    "reactions": 1,
+    "score": 7
+  },
+  {
     "username": "ptdewey",
     "githubId": "57921252",
     "issues": 1,
@@ -5366,23 +5400,6 @@
       "all": 0
     },
     "helpful_issues": 1,
-    "comments": 1,
-    "helpful_comments": 0,
-    "reactions": 1,
-    "score": 6
-  },
-  {
-    "username": "posva",
-    "githubId": "664177",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 1,
-      "all": 1
-    },
-    "helpful_issues": 0,
     "comments": 1,
     "helpful_comments": 0,
     "reactions": 1,
@@ -7854,6 +7871,23 @@
     "score": 2
   },
   {
+    "username": "TotoCodeFR",
+    "githubId": "118753153",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 3,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 2
+  },
+  {
     "username": "tylersayshi",
     "githubId": "26290074",
     "issues": 1,
@@ -8908,6 +8942,23 @@
     "score": 1
   },
   {
+    "username": "marekh19",
+    "githubId": "79986994",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 1,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 1
+  },
+  {
     "username": "mia-t-witch",
     "githubId": "233241510",
     "issues": 0,
@@ -9505,23 +9556,6 @@
   {
     "username": "tmchow",
     "githubId": "517103",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 0,
-      "all": 0
-    },
-    "helpful_issues": 0,
-    "comments": 2,
-    "helpful_comments": 0,
-    "reactions": 0,
-    "score": 1
-  },
-  {
-    "username": "TotoCodeFR",
-    "githubId": "118753153",
     "issues": 0,
     "merged_pull_requests": {
       "docs": 0,
