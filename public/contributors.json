@@ -215,7 +215,7 @@
       "all": 49
     },
     "helpful_issues": 9,
-    "comments": 111,
+    "comments": 112,
     "helpful_comments": 7,
     "reactions": 153,
     "score": 308
@@ -5627,6 +5627,23 @@
     "score": 5
   },
   {
+    "username": "benjamincanac",
+    "githubId": "739984",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 1,
+      "all": 1
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 1,
+    "score": 5
+  },
+  {
     "username": "benwiacek",
     "githubId": "148484924",
     "issues": 0,
@@ -9687,23 +9704,6 @@
     "comments": 0,
     "helpful_comments": 0,
     "reactions": 2,
-    "score": 0
-  },
-  {
-    "username": "benjamincanac",
-    "githubId": "739984",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 0,
-      "all": 0
-    },
-    "helpful_issues": 0,
-    "comments": 0,
-    "helpful_comments": 0,
-    "reactions": 0,
     "score": 0
   },
   {
