@@ -98,7 +98,7 @@
     "helpful_issues": 35,
     "comments": 313,
     "helpful_comments": 2,
-    "reactions": 141,
+    "reactions": 142,
     "score": 546
   },
   {
@@ -228,14 +228,14 @@
       "docs": 5,
       "chore": 8,
       "feat": 21,
-      "fix": 13,
-      "all": 47
+      "fix": 14,
+      "all": 48
     },
     "helpful_issues": 1,
     "comments": 57,
     "helpful_comments": 1,
     "reactions": 39,
-    "score": 294
+    "score": 299
   },
   {
     "username": "RYGRIT",
@@ -7916,7 +7916,7 @@
       "all": 0
     },
     "helpful_issues": 0,
-    "comments": 3,
+    "comments": 4,
     "helpful_comments": 0,
     "reactions": 0,
     "score": 2
