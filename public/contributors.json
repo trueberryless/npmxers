@@ -22,16 +22,16 @@
     "issues": 33,
     "merged_pull_requests": {
       "docs": 2,
-      "chore": 31,
+      "chore": 32,
       "feat": 38,
-      "fix": 38,
-      "all": 109
+      "fix": 39,
+      "all": 111
     },
     "helpful_issues": 23,
     "comments": 405,
     "helpful_comments": 7,
-    "reactions": 420,
-    "score": 918
+    "reactions": 422,
+    "score": 926
   },
   {
     "username": "alexdln",
@@ -141,16 +141,16 @@
     "issues": 16,
     "merged_pull_requests": {
       "docs": 3,
-      "chore": 8,
+      "chore": 9,
       "feat": 19,
       "fix": 16,
-      "all": 46
+      "all": 47
     },
     "helpful_issues": 11,
     "comments": 168,
     "helpful_comments": 3,
-    "reactions": 172,
-    "score": 405
+    "reactions": 173,
+    "score": 408
   },
   {
     "username": "wojtekmaj",
@@ -489,7 +489,7 @@
     "helpful_issues": 12,
     "comments": 88,
     "helpful_comments": 1,
-    "reactions": 61,
+    "reactions": 62,
     "score": 127
   },
   {
@@ -5576,6 +5576,23 @@
     "score": 5
   },
   {
+    "username": "aurorascharff",
+    "githubId": "66901228",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 1,
+      "all": 1
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 2,
+    "score": 5
+  },
+  {
     "username": "azaleta",
     "githubId": "22554452",
     "issues": 0,
@@ -9741,23 +9758,6 @@
     "score": 0
   },
   {
-    "username": "aurorascharff",
-    "githubId": "66901228",
-    "issues": 0,
-    "merged_pull_requests": {
-      "docs": 0,
-      "chore": 0,
-      "feat": 0,
-      "fix": 0,
-      "all": 0
-    },
-    "helpful_issues": 0,
-    "comments": 0,
-    "helpful_comments": 0,
-    "reactions": 2,
-    "score": 0
-  },
-  {
     "username": "bytaesu",
     "githubId": "166604494",
     "issues": 0,
@@ -9828,6 +9828,23 @@
   {
     "username": "dvd233",
     "githubId": "111864431",
+    "issues": 0,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
+    "score": 0
+  },
+  {
+    "username": "fantasy42",
+    "githubId": "123493817",
     "issues": 0,
     "merged_pull_requests": {
       "docs": 0,
