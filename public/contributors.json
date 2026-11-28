@@ -6,15 +6,15 @@
     "merged_pull_requests": {
       "docs": 2,
       "chore": 34,
-      "feat": 42,
-      "fix": 42,
-      "all": 120
+      "feat": 43,
+      "fix": 43,
+      "all": 122
     },
     "helpful_issues": 23,
     "comments": 405,
     "helpful_comments": 7,
-    "reactions": 422,
-    "score": 975
+    "reactions": 425,
+    "score": 987
   },
   {
     "username": "graphieros",
@@ -64,7 +64,7 @@
     "helpful_issues": 20,
     "comments": 205,
     "helpful_comments": 3,
-    "reactions": 195,
+    "reactions": 196,
     "score": 593
   },
   {
@@ -142,15 +142,15 @@
     "merged_pull_requests": {
       "docs": 3,
       "chore": 9,
-      "feat": 19,
+      "feat": 20,
       "fix": 16,
-      "all": 47
+      "all": 48
     },
     "helpful_issues": 11,
     "comments": 168,
     "helpful_comments": 3,
     "reactions": 173,
-    "score": 408
+    "score": 415
   },
   {
     "username": "wojtekmaj",
@@ -472,7 +472,7 @@
     "helpful_issues": 12,
     "comments": 89,
     "helpful_comments": 1,
-    "reactions": 64,
+    "reactions": 65,
     "score": 128
   },
   {
@@ -8888,6 +8888,23 @@
     "comments": 1,
     "helpful_comments": 0,
     "reactions": 1,
+    "score": 1
+  },
+  {
+    "username": "JulioGrajales",
+    "githubId": "29667371",
+    "issues": 1,
+    "merged_pull_requests": {
+      "docs": 0,
+      "chore": 0,
+      "feat": 0,
+      "fix": 0,
+      "all": 0
+    },
+    "helpful_issues": 0,
+    "comments": 0,
+    "helpful_comments": 0,
+    "reactions": 0,
     "score": 1
   },
   {
